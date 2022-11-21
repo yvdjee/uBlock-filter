@@ -1,4 +1,4 @@
-! Title: uBlock-yvdjee-filter
+! Title: Mako's uBlock filter
 ! Expires: 1 day
 ! Description: Block tradingview session dialogs
 ! Homepage: https://github.com/yvdjee/uBlock-filter
