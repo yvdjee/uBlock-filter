@@ -1,3 +1,13 @@
+! Title: uBlock-yvdjee-filter
+! Expires: 1 day
+! Description: Block tradingview session dialogs
+! Homepage: https://github.com/yvdjee/uBlock-filter
+! Licence: https://github.com/yvdjee/uBlock-filter/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/yvdjee/uBlock-filter/issues
+! GitHub pull requests: https://github.com/yvdjee/uBlock-filter/pulls
+
+
 ! The New York Times (nytimes.com)
 ||meter-svc.nytimes.com^
 ||nytimes.com^/metered_assets/
