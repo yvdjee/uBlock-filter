@@ -1,4 +1,9 @@
-To use this tools, you should have [uBlock Origin installed](https://github.com/gorhill/uBlock).
+To use this tool, you should have [uBlock Origin installed](https://github.com/gorhill/uBlock).
+
+##
+- Disable New York Times paywall.
+- Disable Tradingview session dialog.
+- Remove ads for non-premium.
 
 ## Import into uBlock Origin
 
